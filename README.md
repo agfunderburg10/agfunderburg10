@@ -1,5 +1,7 @@
 ![](https://raw.githubusercontent.com/agfunderburg10/agfunderburg10/main/img/name_banner.png)
 
+## About Me
+What's buzzin', cousin? I'm Adam, and I'm a DevOps Engineer with multiple years of experience in test, build, and deployment automation. I love to work with teams with no gammin', grandstandin', or gobbledygook to get their apps and services running tip-top, in development and production. And, I think it is extra swell to use infrastructure-as-code practices to keep everything speedy, smooth, and seamless.  
 
 ## Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
