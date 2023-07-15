@@ -7,6 +7,7 @@ What's buzzin', cousin? I'm Adam, and I'm a DevOps Engineer with multiple years 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-000?&logo=PowerShell)
 ![Groovy](https://img.shields.io/badge/-ApacheGroovy-000?&logo=ApacheGroovy)
+![YAML](https://img.shields.io/badge/-YAML-000?&logo=YAML)
 ![C Sharp](https://img.shields.io/badge/-CSharp-000?&logo=CSharp)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
@@ -21,3 +22,4 @@ What's buzzin', cousin? I'm Adam, and I'm a DevOps Engineer with multiple years 
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Selenium](https://img.shields.io/badge/-Selenium-000?&logo=Selenium)
+![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=terraform)
